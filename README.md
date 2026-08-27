@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+Django;REST+API+Developer;ECE+Graduate+%7C+2025;Building+Practical+Software" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AshwithD">
     <img src="https://komarev.com/ghpvc/?username=AshwithD&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/AshwithD?tab=followers">
     <img src="https://img.shields.io/github/followers/AshwithD?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
   </a>
-</p>
+</p> -->
 
 ---
 
