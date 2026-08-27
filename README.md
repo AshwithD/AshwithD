@@ -146,13 +146,22 @@ An ongoing backend-driven trade finance workflow system simulating immutable led
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwithD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwithD&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AshwithD&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Ashwith D GitHub Stats"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwithD&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 ---
 
 ## 🔥 Contribution Streak
