@@ -73,7 +73,7 @@ class Ashwith:
 ### 🗄️ Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,oracle,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgresql,git,github,postman,vscode" />
 </p>
 
 <p>
