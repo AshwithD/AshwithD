@@ -163,11 +163,10 @@ An ongoing backend-driven trade finance workflow system simulating immutable led
 
 ---
 
+<!-- <p align="center">
 ## 🔥 Contribution Streak
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AshwithD&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
